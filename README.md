@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://i.imgur.com/u9rXNNJ.png)" width="400" alt="Game Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -6,6 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## About APP
+
+This Hangman game simulator, meticulously developed using the Livewire framework for real-time functionality, seamlessly integrates with the Filament package to enhance user managment elements. Players engage in an interactive experience where they strategically guess letters to unveil a concealed word. The app features dynamic alerts for feedback on correct and incorrect guesses, coupled with a responsive design that ensures optimal gameplay across devices. Whether playing solo or challenging friends, the combination of Livewire and Filament delivers a polished, intuitive, and enjoyable gaming experience.
 
 ## About Laravel
 
